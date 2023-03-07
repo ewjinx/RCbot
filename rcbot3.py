@@ -80,4 +80,4 @@ async def reconnect(ctx, member: discord.Member=None):
 
 
 client.loop.create_task(ch_pr())
-client.run('OTk0MzYxMDQ0MzU5MTg0NDg1.GEwHdD.fhFI86TqlNXJUEJgN8nUClwU_Cs4qfVnKw_iUg')
+client.run('YOUR_TOKEN_HERE')
